@@ -12,6 +12,12 @@ repositories:
 
 The code relies on the [KeyV2 library](https://github.com/rsheldiii/KeyV2).
 
+## Cloning the Repository
+This repository relies on git submodules. You must clone the submodules as well using:
+```bash
+git clone --recurse-submodules https://github.com/stonepreston/LMN-3-Keycaps
+```
+
 ## Thanks
 This project would not be possible without the following free and open source projects:
 - [KeyV2](https://github.com/rsheldiii/KeyV2)
