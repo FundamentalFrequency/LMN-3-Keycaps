@@ -1,5 +1,5 @@
 # LMN-3-Keycaps
-This repository contains the OpenSCAD files for the LMN-3 keycaps.
+This repository contains the OpenSCAD files for the LMN-3 keycaps. It also contains printable icons that can be used for labeling keycaps. 
 
 It is a part of the larger LMN-3 project, composed of the following
 repositories:
